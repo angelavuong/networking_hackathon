@@ -11,7 +11,7 @@ To create a script that will
 
 1) Run test.py to get started
 
-'''
+
 
       dP                               dP
       88                               88
@@ -26,11 +26,11 @@ To create a script that will
 1. Scan your local network
 2. Scan another network
 Would you like to scan your local network or another network?
-'''
+
 
 Then based on your selection, a summarized report will be generated:
 
-```
+
 --------------------------------------------------
 ABOUT YOUR SYSTEM:
 ==================================================
