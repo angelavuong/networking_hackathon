@@ -8,7 +8,7 @@ To create a script that will
 4) Locate the vendor for all of the occupied hosts in your subnet (e.g. Cisco, Apple)
 
 ## Getting Started
-
+```
 1) Run test.py to get started
 
 
@@ -26,11 +26,11 @@ To create a script that will
 1. Scan your local network
 2. Scan another network
 Would you like to scan your local network or another network?
-
+```
 
 Then based on your selection, a summarized report will be generated:
 
-
+```
 --------------------------------------------------
 ABOUT YOUR SYSTEM:
 ==================================================
@@ -69,3 +69,4 @@ MAC Prefix: 	68:2C:7B
 IP: 		<HOST_IP>
 Company: 	Apple, Inc.
 MAC Prefix: 	8C:85:90
+```
